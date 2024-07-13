@@ -2,6 +2,9 @@
 
 Este repositório contém o projeto desenvolvido durante a NLW 16 da Rocketseat. O evento proporcionou uma semana intensa de aprendizado, com aulas práticas e desafios em várias tecnologias, incluindo ReactJS.
 
+[criar-atividade.webm](https://github.com/user-attachments/assets/ff7fb5c1-1c6a-4005-8e88-61998312d8a2)
+
+
 ## Descrição
 
 Este projeto foi criado como parte da Next Level Week (NLW) 16, organizada pela Rocketseat. A NLW é uma semana de imersão em tecnologia, com o objetivo de levar os participantes ao próximo nível em suas carreiras. Durante o evento, participei das aulas de ReactJS, onde desenvolvemos esta aplicação web, **plann.er**, com funcionalidades de marcar uma viagem, convidar amigos e criar atividades de acordo com as datas que você está viajando.
